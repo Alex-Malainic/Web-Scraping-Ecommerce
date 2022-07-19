@@ -1,4 +1,4 @@
-# big-ecommerce-scrape
+# Web Scraping Ecommerce Website
 
 ### This code performs web scraping over the biggest Romanian ecommerce site. 
 ### Given the complexity of a website, the code will only scrape over a few categories which can be given as an argument in the function. 
